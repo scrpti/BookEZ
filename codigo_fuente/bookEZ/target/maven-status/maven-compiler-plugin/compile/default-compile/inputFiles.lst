@@ -1,0 +1,15 @@
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/repository/ReservaRepository.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/model/Reserva.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/repository/ClienteRepository.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/model/Venta.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/service/ClienteService.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/service/ReservaService.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/repository/EventoRepository.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/repository/VentaRepository.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/repository/ProductoRepository.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/model/Evento.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/service/ProductoService.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/service/VentaService.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/service/EventoService.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/model/Producto.java
+/media/user/base/software/segundo-curso/cuatrimestre-2/sof/bookezBookez/bookEZ/src/main/java/com/bookez/model/Cliente.java
